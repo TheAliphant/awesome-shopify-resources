@@ -69,6 +69,7 @@ Here's a general pathway for becoming a Shopify developer:
 
 ## Proposal and pricing tools for Shopify freelancers
 
+- **[Free Shopify freelance scoping and pricing checklist](guides/shopify-freelance-scope-and-pricing-checklist.md)** — a practical checklist for setting deliverables, exclusions, revision limits, client inputs and effective hourly rate before quoting. Independent editorial resource; no purchase required.
 - **[FORM / FIGURE — proposal builder](https://form-figure-tilbudsbygger-88i3yq.v2.appdeploy.ai/)** — free, Norwegian-language demo for freelancers quoting Shopify store design, creative services, and other client work. Check project scope, hours, discount and estimated margin before sending a quote. It is a general proposal tool, **not a Shopify integration**.
 - **[FORM / FIGURE Professional Pack — $19, one-time purchase](https://tindeth.gumroad.com/l/form-figure-professional-pack?wanted=true&utm_source=github&utm_medium=owned_resources&utm_campaign=form_figure_launch)** — downloadable offline builder, three editable example projects, six client-email templates, checklist and pricing guide. **Disclosure:** this is a product sold by the maintainer's Teust/Tindeth account; it is not a Shopify-endorsed resource.
 

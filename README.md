@@ -67,6 +67,11 @@ Here's a general pathway for becoming a Shopify developer:
 - [Shopify Lighthouse CLI](https://shopify.dev/themes/tools/lighthouse-ci)
 - [Dawn Reference Theme](https://shopify.dev/themes/tools/dawn)
 
+## Proposal and pricing tools for Shopify freelancers
+
+- **[FORM / FIGURE — proposal builder](https://form-figure-tilbudsbygger-88i3yq.v2.appdeploy.ai/)** — free, Norwegian-language demo for freelancers quoting Shopify store design, creative services, and other client work. Check project scope, hours, discount and estimated margin before sending a quote. It is a general proposal tool, **not a Shopify integration**.
+- **[FORM / FIGURE Professional Pack — $19, one-time purchase](https://tindeth.gumroad.com/l/form-figure-professional-pack?wanted=true&utm_source=github&utm_medium=owned_resources&utm_campaign=form_figure_launch)** — downloadable offline builder, three editable example projects, six client-email templates, checklist and pricing guide. **Disclosure:** this is a product sold by the maintainer's Teust/Tindeth account; it is not a Shopify-endorsed resource.
+
 ## Books️
 
 > Popular Books that can help you learn how to use [Shopify](https://www.shopify.com) and run a successful e-commerce business:
